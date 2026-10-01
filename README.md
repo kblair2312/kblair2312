@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kblair2312
-- 👀 I’m interested in CARS
-- 🌱 I’m currently learning Math, Physics and ComputerScience
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Blair KAREMERA
+- 👀 I’m interested in CARS and CODING
+- 🌱 I’m currently taking SOFTWARE ENGINEERING at a UNIVERSITY level
+- 💞️ I’m looking to collaborate on Java and web designing.
 - 📫 How to reach me don't try, like for real don't try
 - ⚡ Fun fact: I am annoying 
 
